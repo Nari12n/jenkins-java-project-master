@@ -10,7 +10,7 @@
 	
 	<properties>
 	<docker.image.prefix>kammana</docker.image.prefix>
-		<sonar.host.url>http://35.78.248.84:9000/</sonar.host.url>
+		<sonar.host.url>http://3.112.25.69:9000/</sonar.host.url>
                 <sonar.login>admin</sonar.login>
                 <sonar.password>admin123</sonar.password>
 		<sonar.ws.timeout>600000</sonar.ws.timeout>
@@ -51,12 +51,12 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexus</id>
-		    <url>http://43.207.230.188:8081/repository/nari-snap/</url>
+		    <url>http://18.183.62.34:8081/repository/nari-snap/</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>nexus</id>
-		    <url>http://43.207.230.188:8081/repository/nari/</url>
+		    <url>http://18.183.62.34:8081/repository/nari/</url>
 		</repository>
   	</distributionManagement>
 	
