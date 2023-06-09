@@ -51,12 +51,12 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexus</id>
-		    <url>http://43.207.230.188:8081/repository/student-snapshot/</url>
+		    <url>http://43.207.230.188:8081/repository/nari-snap/</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>nexus</id>
-		    <url>http://43.207.230.188:8081/repository/student-release/</url>
+		    <url>http://43.207.230.188:8081/repository/nari/</url>
 		</repository>
   	</distributionManagement>
 	
